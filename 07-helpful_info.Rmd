@@ -1,0 +1,29 @@
+# Helpful Information
+
+----------
+
+## Graduate Students
+
+### Fellowships
+
+Here is a list of fellowships that lab members recommend applying to:
+
+* [NSF GRFP](https://www.nsfgrfp.org/): apply in 1st or 2nd year of graduate school, deadline is typically early October. Provides 3 years of funding with an annual stipend ~$37k. 
+* [UCLA Fellowships](https://grad.ucla.edu/asis/stusup/gradsupport.pdf): funding time frame and amount varies, eligibility criteria varies; consult the link for specifics on each fellowship. Fellowships graduate students have won in the past (so that you can reach out to that person for example materials) include:
+  + Graduate Division Privately Endowed Fellowships: Faculty Women's Club Scholarship (Fran; $3k).
+  + Graduate Summer Research Mentorship Program (GSRM; Fran & Naomi; $6k for summer)
+  + Graduate Research Mentorship Program (GRM; Fran & Naomi; $20k + tuition for academic year)
+* [NIH F31 NRSA](https://www.nia.nih.gov/research/training/f31-individual-fellowships-phd-students): apply in 3rd or 4th year, 3 different deadlines (April 8, August 8, December 8). Students typically propose 2-3 years of funding, yearly stipend is ~$26k.  
+
+
+### Conferences
+
+Conferences are a great way to practice presenting your work and meet new people in your area of interest! Below is a list of conferences that lab members frequently attend, how often the conference happens, the typical abstract deadline, and the typical month when the conference is held. 
+
+| Conference | Frequency | Approx. Abstract Deadline | Approx. Conference Month |
+|:----------:|:---------:|:-------------------------:|:------------------------:|
+| SRCD       | Biennial  | September                 | March                    |
+| ISDP       | Annual    | August                    | November                 |
+| SAS        | Annual    | November                  | March-April               |
+| Flux       | Annual    | March                     | September                | 
+

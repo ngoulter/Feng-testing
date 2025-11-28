@@ -1,0 +1,94 @@
+# General Policies
+
+----------
+
+## Hours
+
+Being physically present in lab is important. In lab you can learn from others, help others, have fast and easy access to resources (and people), and build networks with your peers and senior colleagues. While hours in academia are generally more flexible than other jobs, you should still treat it like a job. That means working 40+ hours a week if you are a full-time staff member or student. You can work from home occasionally, but not all the time, and you need to show up for all your meetings. I do expect to see everyone in lab on a regular basis, and I will be frank with you if I feel like you are not spending enough face-time in lab. To encourage lab interaction, try to be in most weekdays during ‘peak’ hours (assuming no other obligations) – e.g., between 11am and 4pm.
+ 
+The only exceptions to these flexible work hours are lab managers / paid research associates, who must keep more regular hours and be in lab 5 days a week. I expect lab managers / research associates to be in about 8 hours a day, starting around 9am or 10am and ending around 5pm or 6pm. As discussed above, if you are running research participants on the weekends or after hours, I am o.k. with you coming/leaving earlier on other days of the week to compensate.
+ 
+Each of us has different working hours. Sometimes I (Bridget) work late at night or early in the morning. So, you can expect that you may get emails or slack messages from me at weird hours. I also expect that sometimes I might get emails or slack messages from you at unusual times of the day, or not. Please respect yourself and other people’s quirks – if you are not working, don’t check email or slack, and don’t feel pressured to respond outside of your working hours. 
+
+----------
+ 
+## Noise Policy
+
+Sharing a lab space is hard as we all need a place to focus and work quietly. However, I hope that we like one another and want to chat and have fun too. No matter who is in the lab when you are in, try to respect these general guidelines:
+
+- Always speak in a hushed voice. Remember there are other labs near us as well and we want to be respectful of all our colleagues.
+- If someone is wearing headphones and has their ‘do not disturb’ sign up, do not disturb them.
+- When speaking with participants on the phone, use one of the testing rooms and close the door.
+- If the door to the testing rooms are closed, be extra quiet. It likely means that we have a participant in the lab, or we are speaking to a participant on the phone.
+
+When the lab gets larger, or even now, you (graduate students, postdocs, undergrads, lab managers, research assistants, undergraduates) might want to organize lunchtime events. These could be where you leave the lab and sit outside as a group for lunch (a very healthy thing to do!) and do all your catching up with one another there, or where you discuss specific topics over lunch – e.g., I have seen some colleagues have fun with ‘lunch hacks’ or ‘coding circles’ where you work over coding problems together in your lunch break (allowing everyone to save up their questions for that time of the day, rather than disturb others while they are trying to work). Obviously, I will leave that up to you all, but these are some of the ways that allow for fun lab socialization without disturbing work hours.
+
+----------
+ 
+## PI Office Hours
+
+In addition to weekly meetings (see below), Bridget will host open office hours once every two months for volunteer RAs, undergraduate students, research staff, postdocs, and grad students to schedule 1-on-1 meetings with her. To do this, she will share her calendar so that lab members can book a slot. You may discuss anything you like in these meetings - for instance, professional development, an ongoing project, or anything else. 
+
+----------
+
+## Meetings
+
+### Weekly Lab Meetings
+ 
+It is my expectation that all lab members are aware of what each other are working on. In knowing (and taking interest in what your lab mates are working on) it will make it feel like a lab community, rather than a bunch of people collaborating one-on-one with the PI. One of the forums where we can learn about each other’s work is in weekly lab meetings. These lab meetings will be approximately 1 hour and may involve a group project troubleshoot (~15-30 minutes), and a goal blitz for the week or month ahead (<5 minutes per person) at the start of the meeting. For the remaining time in the lab meeting, we will have different approaches depending on the amount of data and the stage of current projects. To begin with, while the Mind, Brain Body study is getting setup, one option (Thematic Learning option) is to define an area of interest that the lab wants to learn more about at the start of the term, and then have lab members present on articles on their choosing that focus on the agreed-upon themes in a journal club style. When the lab has some data to work on, we might begin to transition to a mix of Thematic Learning and Works in Progress. Works in Progress simply means that students take time to present their analyses or projects.
+ 
+The group project troubleshoot will involve us working through problems that relate to the large group project (at this stage, the large group project is the Mind, Brain, Body project, funded through Bridget’s R00). As all lab members contribute to data collection for that project, we will talk about procedural issues like recruitment, planning the next wave of data collection etc. Troubleshooting for smaller individual projects will occur during one-and-one meetings with the PI (see below) and during the WIP session.
+ 
+Goal blitz will involve every lab member going around and giving a very brief update of what they achieved during the week, and what their goals are for the coming week. This should be prepared ahead of time, and succinct! This will help everyone know what stage we are all at with our projects, and can also help with planning procedural issues – e.g., if many people are planning to be debugging code in the coming week, it might make sense to set up a code lunch so that you can help one another out.
+ 
+Thematic Learning: The core lab member will identify an area of research that is relevant to the lab at the moment, or to their present work. For example, if we are discussing different memory assessments to add to the protocol for Mind, Brain, Body, the lab member could make a syllabus on the theme of ‘measurement of memory across development’. They would then identify several papers in the area to put into a reading list (i.e., make a bibliography) and then assign some of the more pertinent papers to be discussed during Thematic Learning. Each student in the lab would then take turns leading the thematic learning component of the lab meeting on one of the assigned papers. Old syllabi will be available for new students to read, so that they can get up to date with the things we have been working on in the lab. This is a great way to get experience developing syllabi, teaching, and contributing to the knowledge base in the lab.  
+ 
+Works-in-Progress (WIP) will be assigned to one lab member each week during months where we are not doing Thematic Learning. This is an opportunity to present some data, or a task, or an idea that you are working on. Works-in-Progress are just that, in progress. This means that they should not be perfect presentations, but instead, should be a ‘warts and all’ look at what is going on with the data, analysis, code etc. The idea is to work as a group to constructively provide feedback and help one another move forward.
+ 
+Occasionally, we may have joint lab meetings with other faculty in the department – these may be combined with our weekly lab meeting or an additional meeting. We will also use lab meetings (or ad-hoc scheduled meetings) to prepare for conference presentations and give people feedback on job talks or other external presentations. Lab meeting agendas and notes will be kept in the #lab-meetings channel on Slack.
+ 
+### Individual Meetings
+ 
+At the beginning of each term, we will set a schedule for weekly meetings. Each full-time lab member (RAs, graduate students, post-docs) will have a half-hour slot set aside to meet with Bridget. If scheduling conflicts arise (e.g., because of travel), we can try to reschedule for another day that week. If there is nothing to discuss, feel free to cancel the meeting or just drop by for a brief chat. If you need to speak for longer – please give advanced notice.
+ 
+For full-time lab members, you should come to individual meetings prepared to talk about your career goals, your training goals, procedural aspects of your project, and your data. When we talk about your data, I suggest you bring along an R-Markdown file, or Keynote/PowerPoint that includes your raw data (e.g., histograms, scatter plots etc.) as well as any analyses that have been done, and figures produced from those analyses. This will help us to make the best use of our time and will save us digging around for data while we are meeting.
+ 
+Post-docs, graduate students, and lab managers should meet with their undergraduate mentee/s on a regular basis.
+
+----------
+
+## Deadlines
+
+One way of maintaining sanity in the academic work is to be as organized as possible. This is essential because disorganization doesn’t just hurt you, it hurts your collaborators and people whose help you need. When it comes to deadlines, tell your collaborators as soon as you know when a deadline is, make them a calendar reminder, and make sure you give them a friendly follow-up reminder about a week before the deadline.
+ 
+For tasks with a hard deadline, but that don’t require a lot of time (e.g., reading/commenting on conference abstracts, filling out paperwork, etc.), please give Bridget at least a 7-day window. For tasks that require a moderate degree of work (e.g., a letter of recommendation), please give Bridget about a 3-week window (if possible). If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Bridget before a hard deadline, give her as much time as you can; a month or more.
+ 
+For manuscript submissions and revisions (i.e., which either have no deadline at all or only a weak deadline), send drafts to Bridget as soon as you have them. She will get to them as soon as she gets a chance. Feel free to follow-up if you haven’t heard anything in a few weeks.
+
+----------
+
+## Presentations
+
+Learning to present your research is important. Very few people will read your papers carefully (sad, but true) but you can reach a lot of people at conference talks and posters. Also, if you plan on staying in academia, getting a post-doc position and getting a faculty position both significantly depend on your ability to present your data. Even if you want to leave academia, presentations are likely to be an important part of your job. Additionally, every time you present your work, you are representing not just yourself but the entire lab.
+ 
+It is therefore highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs (within or outside of UCLA), at conferences, or to the general public. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require much refining).  Practice talks will help you feel comfortable with your presentation and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
+ 
+Templates for posters will be available, and you can use those as much or as little as you’d like. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. Other than that, go with your own style.
+ 
+Bridget is also happy to share slides from some of her talks if you would like to use a similar style. You’ll get a lot of feedback on your talks in any case, but other people’s slides might be helpful to you as you are setting up your talk. As with posters, feel free to go with your own style as long as it is polished and clear.
+
+----------
+
+## Recommendation Letters
+ 
+Letters of recommendation are extremely important for getting new positions and grants. You can count on Bridget to write you a letter if you have been in the lab at least one year (it’s hard to really know someone if they have only been around for a few months). Exceptions can be made if students or post-docs are applying for fellowships shortly after starting in the lab.
+ 
+If you need a letter, notify Bridget as soon as possible with the deadline (see Deadlines for guidance), your CV, and any relevant instructions for the content of the letter. If the letter is for a grant, also include your specific aims. If the letter is for a faculty position, also include your research and teaching statements. In some cases (especially if short notice is given), you may also be asked to submit a draft of a letter, which will be modified based on Bridget’s experience with you, made more glamorous (people are much too humble about themselves!), and edited to add anything you left out that Bridget thinks is important. This will ensure that the letter contains all the information you need, and that it is submitted on time.
+
+----------
+
+## Open Science
+ 
+We’re all for open science, so lab members are required to share their code (and eventually the data) with others. Within lab, you can share your code and data whenever and in whatever way you like. But do not share your code or data with the outside world until you think (and Bridget agrees) that the lab has finished working with it. Currently, the best option for sharing smaller datasets might be the Open Science Framework, the best option for sharing MRI datasets is OpenFMRI, and the best option for sharing microbiome data is the Sequencing Read Archive or the European Nucleotide Archive.
+ 
+We will also share our work with the world as soon as we ready, which means preprints! The lab policy is to upload a preprint of a manuscript simultaneously with initial submission to a journal. The preferred preprint servers are bioRxiv and PsyArXiv. We will also put PDF’s of all our papers on the lab website, and you should share PDF’s of your paper with whoever asks.

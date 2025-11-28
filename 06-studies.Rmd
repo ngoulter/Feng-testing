@@ -1,0 +1,22 @@
+# Studies 
+
+----------
+
+In the table below, we have listed the studies in the lab. 
+
+‘Ongoing’ includes studies that are actively being collected. Studies that are done with data collection are called ‘Archival’. You can analyze these datasets during your time in the lab by approaching Bridget with a research question and coming up with an analysis plan. To see what measures are included in each study, click on the study link which will take you to a landing page describing all of the measures, or you can also log into webIRB to see the currently active IRB protocol for that project. 
+
+If you are writing a paper on one of these studies, you will need to cite the Parent Grant/s used for that study (you should also ask your collaborators if they have any fellowships that they would like listed).
+
+| Study Name                      | Parent Grant(s) | IRB #     | Status  | Wiki |
+| ------------------------------- | --------------- | --------- | ------- | ------- |
+| Mind, Brain, Body (MBB) - The Mind, Brain, Body study looks at how early caregiving experiences influence emotional, cognitive, and brain development, as well as physical health and wellness.| NIMH R00        | 19-001217 | Ongoing | [wiki](https://bablab.github.io/wiki_mind_brain_body/) |
+| Parenting Under Pressure (PUP) - This study seeks to explore the ways in which the COVID-19 outbreak has specifically influenced caregivers, children, and families.| Startup | 20-000735  | Closed to Enrollment | [wiki](https://bablab.github.io/wiki_parenting_under_pressure/) |
+| Inside Out - The purpose of this two-part study is to explore the relationship between somatic symptoms and emotions in adults.  | Startup         | 20-000295 | Data Analysis | [wiki](https://bablab.github.io/wiki_inside_out/) |
+| Transfer Mental Health  - This study explores the relationship between being a transfer student and subsequent mental health outcomes.| PROPS           | 19-002273 | Closed to Enrollment | [wiki](https://bablab.github.io/wiki_transfer_mental_health/) | 
+| Stress & Early Childhood Microbiome Development - This study helps understand how conditions in pregnancy and early childhood influence the health and development of women and children, as well as .  | [GUSTO Study](http://www.gusto.sg/) |-----| Data Analysis | [wiki](https://bablab.github.io/wiki_gusto/)
+| Call4Growth - This study explores the role of a sense of vocational calling as manifested by military service in the IDF in fostering growth in adults, particularly those who have experienced childhood | PROPS           | 20-001988 | Ongoing | -----|
+| Memory Plasticity  | Bridget Postdoc Study          | 20-001310 | DUA Columbia University |------- |
+| Categorical Memory Retention in Adulthood  | Bridget Postdoc Study         | 20-007101 | Ongoing |------- |
+| Emotional Learning for Kids  | Bridget Postdoc Study         | 19-002284  | DUA Columbia University |------- |
+| Emotional Eavesdropping in Toddlers  | Bridget Postdoc Study       | 20-000002 | DUA Columbia University |------- |

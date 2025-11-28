@@ -1,0 +1,58 @@
+---
+title: "NatalieLab Manual"
+author: Feng
+date: 2025/11/28
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is the lab manual for the Natalie' Lab at Flinders University"
+---
+
+# Nat Lab Manual
+
+![<!--- NatalieLab Logo --->](images/index/Natalie.png){width="50%" height="50%"}
+
+## Welcome from Nat
+
+------------------------------------------------------------------------
+
+Welcome to the Nat Lab at Flinders Univerristy!
+
+We are so glad that you are joining us, in whatever capacity it is (undergraduate, research assistant, graduate student, postdoc, visiting scholar, or collaborator). Academia can be a confusing place, and no two labs are the same. We have written this manual to make your transition into the BABLab as smooth as possible, to share the goals of the lab, its inner workings, as well as its unique culture, to which you will contribute. We hope that during your time here, you will learn a lot about the brain and its interactions with the rest of the body, about developmental psychology, and about science in general. It is our collective goal to have everyone leave the lab with more than they started with, should that be new skills, a fresh perspective or understanding on a given topic, and a network of colleagues and friends. We hope that you make it your goal to place your own positive stamp on the lab, and to contribute to it in a meaningful way. Just like us, a lab grows and develops over time, and each individual shapes its path. We look forward to seeing what your time in the lab will bring.
+
+This lab manual was inspired by several others, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf) by the Aly Lab and [this one](https://github.com/memobc/memolab-manual) from the Ritchey Lab were the primary sources and the main template I used. A little of [this one](https://github.com/jpeelle/peellelab_manual/blob/master/peellelab_manual.pdf) too).
+
+A lot of time was put into the creation of this document. Thinking about what we want our lab to be, what are we going to be known for, and how can we make this lab work for everyone. We really respect the principles and ideas we are aspiring to here, and for that reason, we ask that all new lab members read the manual in full.
+
+*This lab manual is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). If you want to make your own manual for a lab, or any other purpose, please feel free to take any ideas and inspiration for this one (and cite us), as well as from the others we have used when making this (and cite them).*
+
+------------------------------------------------------------------------
+
+## Mission Statement
+
+In the BABLab we aim to do good science that makes a difference. That is our mission. To do it, we need people to be passionate about what we are doing and come to work in a good frame of mind to get it done. We aim to be nurturing, challenging, and stimulating to students. We aim to be respectful, engaging, and meaningful for families and participants.
+
+------------------------------------------------------------------------
+
+## Diversity Commitment
+
+We in the BABLab value the diversity of our lab members and research participants. We take seriously our role as allies for Indigenous, Black, and Communities of Color, and are committed to learn, understand, and dismantle systems of oppression, particularly in academia. You are welcome in this lab whatever the color of your skin, your sexual orientation, your gender identity, your nationality, your ability, and your culture. Read on for some of the concrete steps we are taking in the lab to address racism and encourage diversity in the 2020-2021 academic year.
+
+1.  We will continue to support historically underrepresented students through the PROPS program at UCLA. If you are a junior or senior in Psychology at UCLA, consider applying to the PROPS program for a research intensive experience. <https://www.psych.ucla.edu/undergraduate/special-programs-and-events/psychology-research-opportunities-programs/props-application>
+
+2.  Diversity focused lab meetings. Across the Summer of 2020 we trialed a new format of lab meeting focused on diversity in academia. These are be meetings where we amplify black and brown voices and discuss issues of race and racism in science and academia. Going forward in 2020 and into 2021, we are making a commitment to be mindful of the diversity of samples in papers that we review and to think about how sample diversity and the questions that were asked influence findings.
+
+3.  Engaging in more Community Based Participatory Research. It is our mission in the BABLab to make a difference in people's lives through the work we do. It is hard for our work to make a difference when the community is not actively involved in the research process from start through finish, not as 'subjects' or 'participants', but as partners. We have been working on creating lasting and meaningful community partnerships since our inception in 2019. As a concrete step forward in this same direction, we commit to including a timeline and dedicated funds to establish a Community Advisory Board for all future community facing grants.
+
+4.  Reviving and refreshing each new academic year. The world we live in changes rapidly, and practices become quickly outdated and superseded. We in the BABLab are making a commitment to review our diversity statement and practices at the beginning of every academic year, checking in with the students and staff to see what is working and not working for them, and making adjustments where necessary.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

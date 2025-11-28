@@ -1,0 +1,6 @@
+# Lab Wiki
+
+----------
+
+The lab [wiki](https://bablab.github.io/wiki_bablab/) has all of the information you need to function as a member of the BABLab, including a checklist of tasks that need to be done upon arrival (onboarding), links to our studies, day-to-day housekeeping duties, examples of forms, flyers, posters that can be used as a starting point when designing your own, programming and stats tips, important data management information, the best places to eat and drink on and around campus, and anything else we can think of. The wiki is a living document and you can contribute to it! When you obtain information that will be useful for others to know (you found the best coffee on campus, a great website or educational resource etc.) put it on the wiki! Ask the lab manager to be added as a member of the wiki so that you can edit it.
+ 
